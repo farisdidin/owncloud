@@ -58,8 +58,16 @@
     https://server_domain_or_IP/owncloud
     ```
 
+4. Set Samba on owncloud
+
+https://doc.owncloud.org/server/8.2/admin_manual/configuration_files/external_storage/smb.html
+
+5. Define trusted proxy
+
+https://doc.owncloud.org/server/8.2/admin_manual/configuration_server/reverse_proxy_configuration.html
+
 ## References
 * https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-owncloud-on-ubuntu-16-04
-* 
-
+* https://doc.owncloud.org/server/8.2/admin_manual/configuration_files/external_storage/smb.html
+* https://doc.owncloud.org/server/8.2/admin_manual/configuration_server/reverse_proxy_configuration.html
 
