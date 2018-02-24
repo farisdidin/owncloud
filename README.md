@@ -97,7 +97,7 @@
 
 
 ## References
-    * https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-owncloud-on-ubuntu-16-04
-    * https://doc.owncloud.org/server/8.2/admin_manual/configuration_files/external_storage/smb.html
-    * https://doc.owncloud.org/server/8.2/admin_manual/configuration_server/reverse_proxy_configuration.html
+* https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-owncloud-on-ubuntu-16-04
+* https://doc.owncloud.org/server/8.2/admin_manual/configuration_files/external_storage/smb.html
+* https://doc.owncloud.org/server/8.2/admin_manual/configuration_server/reverse_proxy_configuration.html
 
