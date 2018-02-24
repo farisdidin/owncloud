@@ -1,13 +1,13 @@
-# Set Up ownCloud pada Share AJK
+# Set Up ownCloud for Share AJK
 
-## requirement:
+## Requirements:
 1. Linux
 2. Apache
 3. MySQL
 4. PHP
 
 
-## Step:
+## Steps:
 1. Owncloud Installation
     * Ubuntu 16.04
      
@@ -84,12 +84,12 @@
 
     ![img2](images/2.png)
     
-    - Choose Username and password as the authentication method
-    - Fill _Host_ with IP address of the server used for the file sharing
-    - Fill _Share_ with the exact same name of the folder you want to share
-    - You can leave _Remote subfolder_ and _Domain_ blank
-    - Fill _Username_ and _Password_ with the username and password used for accessing the file sharing server
-    - Add some specific group if you want to share it with only specific people or you can leave it blank so that the folder will be available for all users
+    * Choose Username and password as the authentication method
+    * Fill _Host_ with IP address of the server used for the file sharing
+    * Fill _Share_ with the exact same name of the folder you want to share
+    * You can leave _Remote subfolder_ and _Domain_ blank
+    * Fill _Username_ and _Password_ with the username and password used for accessing the file sharing server
+    * Add some specific group if you want to share it with only specific people or you can leave it blank so that the folder will be available for all users
 
     ![img3](images/3.png)
 
